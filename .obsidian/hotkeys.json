@@ -1,0 +1,10 @@
+{
+  "antidote-grammar-checker-integration:antidote-corrector": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Backspace"
+    }
+  ]
+}
