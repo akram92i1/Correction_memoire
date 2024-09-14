@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e74e944807d7d7a6",
+        "id": "1217e728ea63cd4c",
         "type": "tabs",
         "children": [
           {
-            "id": "2da0df107316ea98",
+            "id": "18b5d4d0efa056ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,16 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2da0df107316ea98",
+  "active": "18b5d4d0efa056ec",
   "lastOpenFiles": [
+    "Remarque mémoire sur le fond évaluateur 1.md",
+    "Remarque correction mémoire_test.md",
+    "Remarque correction mémoire.md",
+    "Rapport détaillé_1.pdf",
+    "Chapitre 01.md",
     "Chapitre 2.md",
+    "test.tex",
     "Mémoire_Maitrise.pdf",
     "PREUVE TSP.md",
-    "Rapport détaillé_1.pdf",
-    "Remarque correction mémoire.md",
-    "Remarque correction mémoire_test.md",
-    "Chapitre 01.md",
-    "Remarque mémoire sur le fond évaluateur 1.md",
     "Remarque mémoire sur le fond évaluateur 1_2.md",
     "Remarque evaluateur 1.md",
     "Remarque/Rapport d├йtaill├й_3.pdf",
@@ -164,7 +165,6 @@
     "Remarque/KHEA29049601_3281_SDU522_20240815_084337.PDF",
     "Remarque/KHEA29049601_3281_SDU1088_20240815_084319.PDF",
     "Remarque/KHEA29049601_3281_SDU105C_-_copie.pdf",
-    "Remarque/Corrections_M├йmoire_Maitrise_Akram_KHELILI_ZEI_part1.pdf",
-    "Remarque/[UQAM#515528958] Synthèse de l'évaluation de votre MEMOIRE - En route vers le dépôt final.zip"
+    "Remarque/Corrections_M├йmoire_Maitrise_Akram_KHELILI_ZEI_part1.pdf"
   ]
 }
