@@ -19,7 +19,7 @@ Voici la preuve ici Salesman Problem (TSP) is NP-hard #Traveling
 passages incompréhensibles ou mal rédigés. Elle nécessite une révision majeure,
 avec ==la reformulation des sections problématiques== et ==l'ajout d'une synthèse des
 articles en plus des descriptions déjà présentes.
-- Ce point sera traitée  dans la version finale du mémoire , la revue de littérature sera mieux structurée et les passages incompréhensible seront revue , une   synthèse des articles sera en plus ajoutée et la problématique reformuler   [[Chapitre 2]] 
+- Ce point sera traitée  dans la version finale du mémoire , la revue de littérature sera mieux structurée et les passages incompréhensible seront revue , une   synthèse des articles sera en plus ajoutée et la problématique reformuler   [[Chapitre 02]] 
 -> 
 
 

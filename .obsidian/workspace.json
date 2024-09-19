@@ -11,12 +11,8 @@
             "id": "18b5d4d0efa056ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapitre 2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapitre 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapitre 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Chapitre 2.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,6 +140,8 @@
   },
   "active": "18b5d4d0efa056ec",
   "lastOpenFiles": [
+    "Chapitre 02.md",
+    "Untitled.canvas",
     "Rapport détaillé_1.pdf",
     "Remarque  évaluateur 1.md",
     "Remarque générale.md",
@@ -155,7 +149,6 @@
     "Remarque mémoire sur le fond évaluateur 1_2.md",
     "Réponse au question.md",
     "Chapitre 01.md",
-    "Chapitre 2.md",
     "Mémoire_Maitrise.pdf",
     "PREUVE TSP.md",
     "test.tex",
