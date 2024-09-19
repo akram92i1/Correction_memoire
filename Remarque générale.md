@@ -1,0 +1,1 @@
+[[Chapitre 01]] contient les passages avec correction et reformulation des remarques générale , [[Chapitre 2]] voit la correction des remarques générale du mémoire avec une révision de l’état de l'art en ajoutant plus de fluidité comme suggéré par les évaluateurs       
