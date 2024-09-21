@@ -11,8 +11,12 @@
             "id": "18b5d4d0efa056ec",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Chapitre 02.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chapitre 02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chapitre 02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Chapitre 02.md"
+              }
             }
           }
         ]
@@ -140,13 +148,14 @@
   },
   "active": "18b5d4d0efa056ec",
   "lastOpenFiles": [
-    "Chapitre 02.md",
-    "Untitled.canvas",
-    "Rapport détaillé_1.pdf",
-    "Remarque  évaluateur 1.md",
     "Remarque générale.md",
     "Remarque mémoire sur le fond évaluateur 1.md",
+    "Rapport détaillé_1.pdf",
     "Remarque mémoire sur le fond évaluateur 1_2.md",
+    "Chapitre 02.md",
+    "Paragraphe de synthèse du Chapitre 02.md",
+    "Remarque  évaluateur 1.md",
+    "Untitled.canvas",
     "Réponse au question.md",
     "Chapitre 01.md",
     "Mémoire_Maitrise.pdf",
