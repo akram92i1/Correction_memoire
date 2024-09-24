@@ -1,1 +1,1 @@
-[[Chapitre 01]] contient les passages avec correction et reformulation de l’évaluateur 1
+[[Chapitre 01]] contient les passages avec correction et reformulation de l’évaluateur 1 selon [[Rapport d├йtaill├й_1.pdf]] 
