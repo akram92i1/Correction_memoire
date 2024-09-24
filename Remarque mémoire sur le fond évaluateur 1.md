@@ -13,12 +13,9 @@
 -> Page 9 : Il est important d’énoncer clairement les objectifs du mémoire ?  
 cette remarque sera prise en considération et les objectifs seront  clairement annonce dans la version finale du mémoire.
 
-<<<<<<< HEAD
 -> 
 la $\mathcal{NP}$ - complétude  peut être prouvé  dans le mémoire cependant comme annoncée dans le chapitre 03 et selon l'article cité dont le nom est (**Energy Minimization for Wireless Communication With Rotary-Wing UAV**,[[https://doi.org/10.1109/TWC.2019.2902559]]), le problème d’optimisation est annonce comme une variante du problème de voyageur de commerce 
 
-
-=======
 -> Page 10 : La contribution 2 n’est pas présente dans le mémoire. Vu son importance, il serait intéressant de l’inclure dans le mémoire.
 la $\mathcal{NP}$ - complétude  peut être prouvé  dans le mémoire cependant comme annoncée dans le chapitre 03 et selon l'article cité dont le nom est (**Energy Minimization for Wireless Communication With Rotary-Wing UAV**,[[https://doi.org/10.1109/TWC.2019.2902559]]), le problème d’optimisation est annoncé comme aussi étant  une variante du problème de voyageur de commerce  **(TSP)** et ce car se dernier nécessite le calcule de l'ordre de visite des capteurs déployé dans la zone géographique cependant elle peut bien sur être inclus dans le mémoire ,  voici une ébauche de la preuve 
 
@@ -31,11 +28,5 @@ passages incompréhensibles ou mal rédigés. Elle nécessite une révision maje
 avec ==la reformulation des sections problématiques== et ==l'ajout d'une synthèse des
 articles en plus des descriptions déjà présentes.
 - Ce point sera traitée  dans la version finale du mémoire , la revue de littérature sera mieux structurée et les passages incompréhensible seront revue , une   synthèse des articles sera en plus ajoutée et la problématique reformuler   [[Chapitre 02]] 
--> 
-
-
- 
- 
->>>>>>> 264a37e325e48e46eb096072644ee028711a447c
 
 
