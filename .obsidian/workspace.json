@@ -11,12 +11,8 @@
             "id": "6c08d49cd367a4af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Laboratoire chapitre 2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laboratoire chapitre 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laboratoire chapitre 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Laboratoire chapitre 2.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,13 +140,13 @@
   },
   "active": "6c08d49cd367a4af",
   "lastOpenFiles": [
+    "Laboratoire chapitre 2.md",
     "Chapitre 02.md",
     "Articles_revu/Energy-Efficient_Trajectory_Optimization_for_UAV-Assisted_IoT_Networks.pdf",
     "Articles_revu/Joint_trajectory_and_power_optimization_for_securing_UAV_communications_against_active_eavesdropping.pdf",
     "Articles_revu/Energy-Efficient_UAV_Routing_for_Wireless_Sensor_Networks.pdf",
     "Chapitre 03.md",
     "Articles_revu/1-s2.0-S0360835218302146-main.pdf",
-    "Laboratoire chapitre 2.md",
     "Articles_revu/A_UAV-Assisted_Data_Collection_for_Wireless_Sensor_Networks_Autonomous_Navigation_and_Scheduling.pdf",
     "Paragraphe de synthèse du Chapitre 02.md",
     "Chapitre 01.md",
