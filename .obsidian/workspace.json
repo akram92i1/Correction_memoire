@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "18b5d4d0efa056ec",
+            "id": "6c08d49cd367a4af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapitre 02.md",
+                "file": "Laboratoire chapitre 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapitre 02.md",
+                "file": "Laboratoire chapitre 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapitre 02.md",
+                "file": "Laboratoire chapitre 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapitre 02.md"
+                "file": "Laboratoire chapitre 2.md"
               }
             }
           }
@@ -146,25 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18b5d4d0efa056ec",
+  "active": "6c08d49cd367a4af",
   "lastOpenFiles": [
-    "Chapitre 01.md",
     "Chapitre 02.md",
+    "Articles_revu/Energy-Efficient_Trajectory_Optimization_for_UAV-Assisted_IoT_Networks.pdf",
+    "Articles_revu/Joint_trajectory_and_power_optimization_for_securing_UAV_communications_against_active_eavesdropping.pdf",
+    "Articles_revu/Energy-Efficient_UAV_Routing_for_Wireless_Sensor_Networks.pdf",
+    "Chapitre 03.md",
+    "Articles_revu/1-s2.0-S0360835218302146-main.pdf",
+    "Laboratoire chapitre 2.md",
+    "Articles_revu/A_UAV-Assisted_Data_Collection_for_Wireless_Sensor_Networks_Autonomous_Navigation_and_Scheduling.pdf",
+    "Paragraphe de synthèse du Chapitre 02.md",
+    "Chapitre 01.md",
+    "Réponse au question.md",
+    "Remarque générale.md",
     "Articles_revu/sensors-21-02839-v3.pdf",
     "Articles_revu/fnbot-16-1105177.pdf",
     "Remarque  évaluateur 1.md",
     "Remarque/Rapport d├йtaill├й_1.pdf",
-    "Remarque générale.md",
     "Rapport détaillé_1.pdf",
-    "Réponse au question.md",
     "Remarque mémoire sur le fond évaluateur 1_2.md",
     "Remarque mémoire sur le fond évaluateur 1.md",
     "Articles_revu/Chats • Instagram_files/a.html",
-    "Articles_revu/Chats • Instagram.html",
-    "Articles_revu/Chats • Instagram_files/a_data/tcRGYC7cmY9.js",
-    "Articles_revu/Chats • Instagram_files/a_data/IPTehBIz7WI.js",
-    "Articles_revu/Chats • Instagram_files/a_data/p55HfXW__mM.js",
-    "Articles_revu/Chats • Instagram_files/a_data/fCSCheXTbZd.js",
     "Articles_revu/Chats • Instagram_files/341563075_249188344171714_4052163477059131983_n.jpg",
     "Articles_revu/Chats • Instagram_files/460737569_823572029941952_105311483559067488_n.jpg",
     "Articles_revu/Chats • Instagram_files/459163453_3763156943896349_790765733131683573_n.jpg",
@@ -175,7 +178,6 @@
     "Articles_revu/Chats • Instagram_files/431124555_909274860680199_5066289674612140864_n.jpg",
     "Articles_revu/Chats • Instagram_files/418410873_1855019508285716_5706860306368336663_n.jpg",
     "Articles_revu/Chats • Instagram_files/1f54a.png",
-    "Paragraphe de synthèse du Chapitre 02.md",
     "Untitled.canvas",
     "PREUVE TSP.md",
     "Remarque evaluateur 1.md"
