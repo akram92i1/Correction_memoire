@@ -6,7 +6,9 @@ Après avoir exploré les approches mathématiques et heuristiques, il est essen
 
 
 ____
-L'utilisation des méthodes heuristiques et d’apprentissage par renforcement , garanti  une qualité de résultat proche de l'optimal,  pour la gestion de la trajectoire multi-objectif du drone dans des environnements dynamique ...., en réduisant le temps de calcul 
+
+
+La gestion de  trajectoire multi-objectif de l'UAV dans des environnement dans des environnements dynamique et complexes a l'aide des méthodes heuristiques et d’apprentissage par renforcement, offre une qualité de résultat proche de l'optimal en réduisant drastiquement le temps de calcul. Les travaux explorées dans cette section expose l'efficacité de ces méthodes dans le contexte de la collecte de donnes ,
 
 
 ____
