@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laboratoire chapitre 2.md",
+                "file": "Chapitre 02.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laboratoire chapitre 2.md",
+                "file": "Chapitre 02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laboratoire chapitre 2.md",
+                "file": "Chapitre 02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laboratoire chapitre 2.md"
+                "file": "Chapitre 02.md"
               }
             }
           }
@@ -150,6 +150,8 @@
   "lastOpenFiles": [
     "Laboratoire chapitre 2.md",
     "Chapitre 02.md",
+    "Rapport détaillé_1.pdf",
+    "Mémoire_Maitrise.pdf",
     "Articles_revu/Energy-Efficient_Trajectory_Optimization_for_UAV-Assisted_IoT_Networks.pdf",
     "Articles_revu/Joint_trajectory_and_power_optimization_for_securing_UAV_communications_against_active_eavesdropping.pdf",
     "Articles_revu/Energy-Efficient_UAV_Routing_for_Wireless_Sensor_Networks.pdf",
@@ -164,10 +166,8 @@
     "Articles_revu/fnbot-16-1105177.pdf",
     "Remarque  évaluateur 1.md",
     "Remarque/Rapport d├йtaill├й_1.pdf",
-    "Rapport détaillé_1.pdf",
     "Remarque mémoire sur le fond évaluateur 1_2.md",
     "Remarque mémoire sur le fond évaluateur 1.md",
-    "Articles_revu/Chats • Instagram_files/a.html",
     "Articles_revu/Chats • Instagram_files/341563075_249188344171714_4052163477059131983_n.jpg",
     "Articles_revu/Chats • Instagram_files/460737569_823572029941952_105311483559067488_n.jpg",
     "Articles_revu/Chats • Instagram_files/459163453_3763156943896349_790765733131683573_n.jpg",
