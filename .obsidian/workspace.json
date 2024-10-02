@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b3541cbad99a2570",
+            "id": "7632bd451ff4d7d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapitre 03.md",
+                "file": "Laboratoire Chapitre 03.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapitre 03.md",
+                "file": "Laboratoire Chapitre 03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapitre 03.md",
+                "file": "Laboratoire Chapitre 03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapitre 03.md"
+                "file": "Laboratoire Chapitre 03.md"
               }
             }
           }
@@ -146,12 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3541cbad99a2570",
+  "active": "7632bd451ff4d7d5",
   "lastOpenFiles": [
-    "Chapitre 02.md",
+    "Chapitre 03.md",
     "Laboratoire chapitre 2.md",
-    "Paragraphe de synthèse du Chapitre 02.md",
+    "Laboratoire Chapitre 03.md",
     "Remarque générale.md",
+    "Chapitre 02.md",
+    "Paragraphe de synthèse du Chapitre 02.md",
     "Remarque mémoire sur le fond évaluateur 1.md",
     "Remarque  évaluateur 1.md",
     "PREUVE TSP.md",
@@ -160,7 +162,6 @@
     "Articles_revu/Energy-Efficient_Trajectory_Optimization_for_UAV-Assisted_IoT_Networks.pdf",
     "Articles_revu/Joint_trajectory_and_power_optimization_for_securing_UAV_communications_against_active_eavesdropping.pdf",
     "Articles_revu/Energy-Efficient_UAV_Routing_for_Wireless_Sensor_Networks.pdf",
-    "Chapitre 03.md",
     "Articles_revu/1-s2.0-S0360835218302146-main.pdf",
     "Articles_revu/A_UAV-Assisted_Data_Collection_for_Wireless_Sensor_Networks_Autonomous_Navigation_and_Scheduling.pdf",
     "Chapitre 01.md",
